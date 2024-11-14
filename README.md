@@ -91,6 +91,8 @@ The API server will be running on `http://localhost:3001`. You can use tools lik
 - Virtuals:
   - `friendCount` (Number, retrieves the length of the user's friends array)
 
+ ## Links: https://drive.google.com/file/d/1AeupqWRA9FhIbbyEvUrdD4iwBLdQxuHu/view?usp=drive_link
+
 ### Thought
 
 - `thoughtText` (String, required, between 1 and 280 characters)
